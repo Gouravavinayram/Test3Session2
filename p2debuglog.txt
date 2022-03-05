@@ -1,1 +1,9 @@
+GNU bash, version 4.4.20(1)-release (x86_64-pc-linux-gnu)
+gcc -g p1final.c
+ ./a.out
+Enter the numerator of 1st fraction:1
+Enter the denominator of 1st fraction4
+Enter the numerator of 1st fraction6
+Enter the denominator of 2nd fraction3
+So the sum of 1/4+6/3=9/4 
 
